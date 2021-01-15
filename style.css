@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(137, 255, 152);
+
+    z-index: 1;
+    margin-left: 23%;
+    margin-right: 23%;
+    
+    font-family: 'Times New Roman', Times, serif
+}
+
+
+table, th, td {
+    border: 0px solid black;
+    border-collapse: collapse;
+    z-index: 5;
+
+}
+
+.sarga{
+    background-color: yellow;
+}
+
+
+.jobbra{
+    text-align: right   ;
+}
+
+.oszlop1{
+    text-align: center;
+}
+
+.kistabla2{
+    margin-right: 140px;
+}
+
+
+hr{
+    background-color: yellow;
+    border: 0px;
+    height: 2px;
+
+}
+
+a{
+    color: grey;
+    text-decoration: none;
+}
+
+h2{
+    color: yellow;
+}
+
+
+.kozepre{
+    text-align: center;
+}
+
+.jobbkep{
+    height: 50px;
+    width: 65px;
+    float: right;
+    padding: 0 10px 0 0
+}
+
+.pulik{
+    vertical-align: top;
+}
